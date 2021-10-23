@@ -13,10 +13,17 @@ This repo contains code and documentation for eda and prototyping done for the r
         └── market_basket_analyis.ipynb                      <- 
 
 ## How to use this
-* 
+* Refer to step-by-step manual [here](https://docs.google.com/document/d/1sEYyfKuzxt1wiyeKr_-WDA5N7oh9_U-a7baAT0vmX_k/edit?usp=sharing)
 
 ## Reference Material
-* 
+Articles on Market Basket Analysis
+* [TDS Article](https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
+* [Medium Article](https://medium.com/@niharika.goel/market-basket-analysis-association-rules-e7c27b377bd8)
+* [Step-by-step examples using arules package in R](https://www.datacamp.com/community/tutorials/market-basket-analysis-r)
+
+Collaborative Filtering
+* [Pinecone Documentation](https://www.pinecone.io/docs/examples/)
 
 ## Potential Improvements
-* 
+* CF algorithm may be more robust than MBA and should be tested
+* Deploying as an API will allow ecomm to be incorporate model outputs more easily
